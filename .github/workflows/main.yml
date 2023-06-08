@@ -1,6 +1,8 @@
 name: Every 1 Minute Update
 
 on:
+  push:
+    branches: [ "main" ]
   schedule:
     - cron: '* * * * *'
 
@@ -29,3 +31,5 @@ jobs:
           git add --all
           git commit --allow-empty -m "Auto Update $d"
           git push -f origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
