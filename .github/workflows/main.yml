@@ -1,7 +1,7 @@
-name: Every 10 Minutes Update
+name: Every 1 Minutes Update
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   update:
@@ -26,5 +26,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         d="$(date --rfc-3339=s)"
         git add --all
-        git commit --allow-empty -m "auto-update 📦 $d"
+        git commit --allow-empty -m "Auto Update $d"
         git push -f origin main
