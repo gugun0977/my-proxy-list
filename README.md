@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6084** proxies at the latest update. Usable proxies are below.
+> Scraper found **6072** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1218|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1206|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1099|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2683|✅|
@@ -49,23 +49,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|4|51.159.115.233|3128|France|Paris|SCALEWAY|
-|5|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|31.220.183.217|53281|Russia|Novokuznetsk|Regional Digital Telecommunication Company|
-|8|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
-|9|64.225.8.121|9976|United States|Clifton|DigitalOcean, LLC|
-|10|64.225.8.121|9976|United States|Clifton|DigitalOcean, LLC|
-|11|95.111.194.14|2659|Singapore|Singapore|UpCloud Ltd|
-|12|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|13|5.161.213.21|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|15|64.225.8.191|9982|United States|Clifton|DigitalOcean, LLC|
-|16|101.230.172.84|9443|China|Shanghai|China Telecom (Group)|
-|17|202.166.220.143|55443|Nepal|Kathmandu|WorldLink Communications|
-|18|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|19|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|3|73.242.86.12|8118|United States|Minnetonka|Comcast Cable Communications|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|7|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|8|51.159.115.233|3128|France|Paris|SCALEWAY|
+|9|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
+|10|134.35.197.98|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|12|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|181.174.224.61|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|14|195.133.45.149|7788|Russia|Moscow|VDS|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|17|31.220.183.217|53281|Russia|Novokuznetsk|Regional Digital Telecommunication Company|
+|18|45.224.119.17|999|Ecuador|Ambato|TELECOM|
+|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |20|101.230.172.84|9443|China|Shanghai|China Telecom (Group)|
 
 
