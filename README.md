@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|191.252.195.53|8888|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|2|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|3|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
-|4|183.80.196.44|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|6|194.183.168.4|11980|Ukraine|Kyiv|Scientific -Industrial Firm "Volz" Ltd|
-|7|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|160.19.232.85|3128|South Africa|Caledon|TWK-COMM|
-|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|64.225.8.115|9980|United States|Clifton|DigitalOcean, LLC|
-|11|173.249.37.15|8080|Germany|Nuremberg|Contabo GmbH|
-|12|41.76.145.136|3128|Mozambique|Maxixe|VM  S.A|
-|13|41.76.145.18|8080|Mozambique|Maxixe|VM  S.A|
-|14|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
-|15|41.76.145.18|8080|Mozambique|Maxixe|VM  S.A|
-|16|120.253.236.108|9443|China|Shanghai|China Mobile communications corporation|
-|17|177.136.86.229|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|18|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|19|61.145.212.31|3128|China|Huizhou|Chinanet|
-|20|178.128.150.93|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|2|115.144.102.132|10041|South Korea|Gangdong-gu|Korea Telecom|
+|3|191.252.195.53|8888|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|7|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|8|178.128.150.93|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|10|185.116.94.4|6588|Bulgaria|Petrich|UltraNET Ltd|
+|11|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|12|64.225.8.82|9998|United States|Clifton|DigitalOcean, LLC|
+|13|64.225.8.82|9998|United States|Clifton|DigitalOcean, LLC|
+|14|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
+|15|157.100.56.181|999|Ecuador|Loja|Nedetel S.A.|
+|16|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
+|17|61.145.212.31|3128|China|Huizhou|Chinanet|
+|18|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|20|41.76.145.136|3128|Mozambique|Maxixe|VM  S.A|
 
 
 
