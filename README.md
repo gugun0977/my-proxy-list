@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5566** proxies at the latest update. Usable proxies are below.
+> Scraper found **5618** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1063|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1019|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|796|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|892|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2623|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
-|2|158.69.72.138|9300|Canada|Montreal|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|149.56.96.252|9300|Canada|Montreal|OVH SAS|
-|5|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
-|6|61.80.239.168|1337|South Korea|Daegu|Korea Telecom|
-|7|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|8|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|10|119.76.142.232|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|181.78.107.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|13|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
-|14|200.123.29.42|3128|Peru|Lima region|Wigo S.A.|
-|15|187.49.191.17|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|16|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|17|41.242.116.150|50001|Mayotte|Mamoudzou|STOI-block1|
-|18|14.161.27.174|8080|Vietnam|Ho Chi Minh City|VNPT|
-|19|173.213.84.87|80|United States|Tampa|Eonix Corporation|
-|20|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
+|5|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|6|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|10|103.171.83.210|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|11|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|14|64.225.8.179|9991|United States|Clifton|DigitalOcean, LLC|
+|15|5.161.191.190|8080|United States|Ashburn|Hetzner Online GmbH|
+|16|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
+|17|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.146.170.252|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|19|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|20|41.76.145.136|3128|Mozambique|Maxixe|VM  S.A|
 
 
 
