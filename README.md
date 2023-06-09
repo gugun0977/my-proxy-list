@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4966** proxies at the latest update. Usable proxies are below.
+> Scraper found **5005** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|760|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|618|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|628|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2504|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|45.234.61.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|7|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|8|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|9|183.80.196.44|8080|Vietnam|Hanoi|FPT Telecom Company|
-|10|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|13|103.144.79.186|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|14|103.145.160.4|8080|Indonesia|Bogor|PT Indonesia Comnets Plus|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|17|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
-|18|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|19|45.11.5.241|53281|Russia|Moscow|Sudak-Net LLC|
-|20|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|1|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|2|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|3|103.111.118.68|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
+|6|31.170.62.198|8080|Iran|Shiraz|Farahoosh Dena PLC|
+|7|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|8|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|5.161.213.21|8080|United States|Ashburn|Hetzner Online GmbH|
+|10|200.37.199.187|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|11|5.78.83.35|8080|United States|Portland|Hetzner Online GmbH|
+|12|163.172.31.44|80|France|Paris|Online S.A.S.|
+|13|3.132.30.131|80|United States|Dublin|Amazon.com, Inc.|
+|14|51.81.24.36|3128|United States|New York|OVH US LLC|
+|15|101.109.23.83|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|16|194.163.182.101|80|Germany|Düsseldorf|Contabo GmbH|
+|17|201.184.24.13|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|18|65.109.4.126|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|95.216.156.131|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
