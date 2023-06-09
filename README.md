@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
-|4|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|5|162.244.32.159|3128|United States|Santa Clara|Hosting Solution Ltd.|
 |6|61.80.239.168|1337|South Korea|Daegu|Korea Telecom|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|9|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|10|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|13|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|15|5.161.80.172|8080|United States|Ashburn|Hetzner Online GmbH|
-|16|64.225.8.82|9984|United States|Clifton|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|19|120.253.236.108|9443|China|Shanghai|China Mobile communications corporation|
-|20|163.177.106.4|8001|China|Shenzhen|China Unicom Guangdong Province Network|
+|7|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|8|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|119.76.142.232|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|181.78.107.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|13|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
+|14|200.123.29.42|3128|Peru|Lima region|Wigo S.A.|
+|15|187.49.191.17|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|16|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
+|17|41.242.116.150|50001|Mayotte|Mamoudzou|STOI-block1|
+|18|14.161.27.174|8080|Vietnam|Ho Chi Minh City|VNPT|
+|19|173.213.84.87|80|United States|Tampa|Eonix Corporation|
+|20|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
 
 
 
