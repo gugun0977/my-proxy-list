@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5195** proxies at the latest update. Usable proxies are below.
+> Scraper found **5157** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|769|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|700|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2642|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2504|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|2|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|3|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|4|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|5|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
-|6|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|10|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
-|11|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|12|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|13|5.135.170.126|8080|France|Givors|OVH SAS|
-|14|191.243.46.50|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
-|15|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|17|64.225.8.82|9985|United States|Clifton|DigitalOcean, LLC|
-|18|65.21.157.205|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|164.92.178.83|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|8|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
+|9|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|10|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
+|11|103.180.125.61|3128|Indonesia|Ponorogo|PT TOKO MIRING BERJAYA|
+|12|24.199.114.240|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
+|14|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|15|189.127.166.196|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|16|178.151.205.154|45099|Ukraine|Zaporizhzhya|Triolan|
+|17|103.156.216.178|80|Indonesia|South Tangerang|PT. Meiwa Mold Indonesia|
+|18|190.26.201.194|8080|Colombia|Ocaña|ETB - Colombia|
+|19|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|20|36.91.45.11|51672|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
