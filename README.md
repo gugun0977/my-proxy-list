@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|733|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|774|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2599|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|6|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|51.81.24.36|3128|United States|New York|OVH US LLC|
-|10|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|11|45.174.92.200|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|103.146.189.90|8080|Indonesia|Depok|PT Parsaoran Global Datatrans|
-|13|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
-|14|115.144.99.220|11116|South Korea|Gangdong-gu|HAIonNet|
-|15|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|16|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|95.217.217.194|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|43.132.175.181|81|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|123.126.158.184|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|65.21.106.116|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|7|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|9|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|13|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|14|85.31.251.62|8080|Poland|Krakow|Energit Sp. z o.o.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|8.242.176.198|8080|Colombia|Santiago de Cali|CTL Colombia|
+|17|3.132.30.131|80|United States|Dublin|Amazon.com, Inc.|
+|18|103.66.196.218|23500|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
+|19|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|64.225.4.29|9480|United States|Clifton|DigitalOcean, LLC|
 
 
 
