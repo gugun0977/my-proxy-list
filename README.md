@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9594** proxies at the latest update. Usable proxies are below.
+> Scraper found **9824** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|655|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|655|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|655|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1153|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1166|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1112|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6245|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1117|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6456|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|2|46.17.107.143|40001|United States|New York|First Server Limited|
-|3|107.152.32.24|8080|United States|Chicago|tzulo, inc.|
-|4|104.248.61.123|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|104.248.57.192|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|7|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
-|8|67.205.151.226|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|24.199.92.0|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|68.183.104.35|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|13|5.182.38.154|8080|Hungary|Budapest|Stark Industries Solutions LTD|
-|14|24.199.92.16|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
-|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|17|67.205.149.241|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|19|64.227.0.187|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|68.183.104.35|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|2|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
+|3|64.225.8.179|9981|United States|Clifton|DigitalOcean, LLC|
+|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|188.190.40.44|8080|Ukraine|Kamianets-Podilskyi|Lanet Network Ltd|
+|6|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|7|193.106.138.52|3128|Ukraine|Kyiv|PJSC Industrial Media Network|
+|8|103.141.109.209|8080|Indonesia|Trenggalek|Data Buana Nusantara|
+|9|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|10|46.17.107.143|40001|United States|New York|First Server Limited|
+|11|181.78.23.170|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|5.161.119.106|8080|United States|Ashburn|Hetzner Online GmbH|
+|13|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
+|14|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
+|15|24.199.84.149|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|186.30.167.139|999|Colombia|Bogotá|ETB - Colombia|
+|17|177.93.46.185|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|158.69.48.228|3128|Canada|Montreal|OVH SAS|
+|19|190.119.86.67|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
