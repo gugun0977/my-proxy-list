@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|634|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|634|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|634|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|557|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|557|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|557|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|43.153.14.156|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.14.156|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|5|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|6|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
+|3|5.182.38.154|8080|Hungary|Budapest|Stark Industries Solutions LTD|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|6|43.153.14.156|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|8|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 |9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|12|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|13|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
-|14|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|15|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|16|202.46.145.4|8080|Indonesia|Jakarta|Pt Mithaharum Abadi|
-|17|103.29.185.58|8080|Indonesia|Jakarta|PT. Pascal Indonesia|
-|18|86.57.156.106|2222|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|20|24.199.92.0|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|149.57.11.193|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|12|119.76.142.245|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|13|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|14|64.225.8.115|9977|United States|Clifton|DigitalOcean, LLC|
+|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|38.156.238.95|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|17|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
+|18|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|19|103.168.44.105|8080|Indonesia|Pemalang|PT CYB Media Group|
+|20|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
