@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10370** proxies at the latest update. Usable proxies are below.
+> Scraper found **10188** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|786|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|786|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|786|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|803|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|803|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|803|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1344|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1162|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1468|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6472|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|3|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|5|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.200.155.178|3128|India|Mumbai|Google LLC|
-|7|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|9|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|11|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|35.244.25.186|3128|India|Mumbai|Google LLC|
-|14|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|191.13.136.85|8080|Brazil|Artur Nogueira|Vivo|
-|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|18|93.99.211.233|8080|Czechia|Pilsen|UPC Czech|
-|19|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|20|46.41.141.111|8080|Poland|Szczecin|home.pl network|
+|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|13.112.253.104|80|Japan|Tokyo|Amazon Technologies Inc|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|4|35.244.25.186|3128|India|Mumbai|Google LLC|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|7|213.252.245.221|8556|Lithuania|Šiauliai|BACLOUD-BITE|
+|8|191.13.136.85|8080|Brazil|Artur Nogueira|Vivo|
+|9|35.200.155.178|3128|India|Mumbai|Google LLC|
+|10|103.253.127.14|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|116.68.170.115|8019|Indonesia|Jakarta||
+|13|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
+|14|93.99.211.233|8080|Czechia|Pilsen|UPC Czech|
+|15|104.248.61.123|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|135.181.94.130|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|137.184.215.55|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|135.181.155.58|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|134.79.23.30|3128|United States|Menlo Park|SLAC National Accelerator Laboratory|
+|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
