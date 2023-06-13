@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8616** proxies at the latest update. Usable proxies are below.
+> Scraper found **8750** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|801|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|840|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|695|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|790|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6036|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|2|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.79.206.225|1080|Singapore|Singapore|OVH SAS|
-|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|159.223.181.204|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|203.57.50.118|40612|Australia|Brisbane|Mammoth Media Pty Ltd|
-|9|5.161.59.111|8080|United States|Ashburn|Hetzner Online GmbH|
-|10|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|11|134.209.222.206|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|81.169.215.166|8080|Germany|Berlin|Strato AG|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|133.186.216.142|3128|Japan|Chiyoda|NHN|
-|15|154.9.91.142|3128|United States|Los Angeles|Digitalsystem Technology Inc.|
-|16|161.35.23.148|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|18|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|19|36.138.120.73|3128|China|Shenzhen|China Mobile|
-|20|138.68.93.46|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|3|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|6|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|184.82.233.231|8080|Thailand|Bangkok|AIS-Fibre|
+|9|103.137.40.6|8080|Bangladesh|Dhaka|Josim Uddin|
+|10|5.161.59.111|8080|United States|Ashburn|Hetzner Online GmbH|
+|11|159.223.181.204|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|13|174.138.41.142|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|159.223.188.177|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|16|167.235.79.27|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|138.68.93.46|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|107.152.32.24|8080|United States|Chicago|tzulo, inc.|
+|20|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
