@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10217** proxies at the latest update. Usable proxies are below.
+> Scraper found **10309** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|742|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|742|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|742|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|827|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|827|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|827|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1318|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1408|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6472|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|2|51.81.24.36|3128|United States|New York|OVH US LLC|
-|3|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|4|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|46.41.141.111|8080|Poland|Szczecin|home.pl network|
-|9|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|10|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|11|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
-|12|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|14|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|15|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|17|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|18|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|34.66.5.144|8888|United States|Council Bluffs|Google LLC|
-|20|104.166.186.168|3128|Russia|Moscow|Zenlayer Inc|
+|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|2|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|217.88.237.102|8080|Germany|Schweinfurt|Deutsche Telekom AG|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|6|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|35.244.25.186|3128|India|Mumbai|Google LLC|
+|8|190.92.239.132|8443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|9|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|10|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|11|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|13.112.253.104|80|Japan|Tokyo|Amazon Technologies Inc|
+|15|185.245.182.5|80|Germany|Düsseldorf|Contabo GmbH|
+|16|116.68.170.115|8019|Indonesia|Jakarta||
+|17|54.151.81.156|80|United States|San Jose|Amazon.com, Inc.|
+|18|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|19|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
+|20|103.155.197.50|8080|Indonesia|Selong|JEMBATANDATA|
 
 
 
