@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|581|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|581|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|581|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
-|6|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|7|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|8|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|9|143.198.157.46|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|11|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|12|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|13|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|16|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|17|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|18|140.99.21.130|3128|United States|Brooklyn|EpicUp Holdings Inc|
-|19|143.198.157.46|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|1|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
+|2|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|5|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|7|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|8|116.105.248.215|10024|Vietnam|Hanoi|Viettel Corporation|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|16|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
+|17|103.190.170.87|8888|Indonesia|Panggungharjo|PT Ring Media Nusantara|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|20|135.125.68.145|3128|France|Roubaix|OVH SAS|
 
 
 
