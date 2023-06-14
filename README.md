@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
 |2|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|3|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|4|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|5|51.158.147.163|1234|France|Paris|SCALEWAY|
-|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|51.158.147.163|1234|France|Paris|SCALEWAY|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|5.196.239.79|8000|Netherlands|Rotterdam|OVH SAS|
+|6|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
 |7|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|9|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|10|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|15|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
-|18|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|19|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|20|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|8|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|9|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|10|195.133.45.149|7788|Russia|Moscow|VDS|
+|11|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|12|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
+|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|14|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
+|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|16|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|18|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|19|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|20|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
 
 
 
