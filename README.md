@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9590** proxies at the latest update. Usable proxies are below.
+> Scraper found **9451** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|492|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|492|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|492|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|987|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|21|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1002|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|861|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6517|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.52.99.39|3128|United States|San Jose|Amazon.com, Inc.|
-|2|13.57.184.188|3128|United States|San Jose|Amazon.com, Inc.|
-|3|34.221.248.85|3128|United States|Portland|Amazon.com, Inc.|
-|4|18.144.5.105|3128|United States|San Jose|Amazon.com, Inc.|
-|5|195.248.240.25|4443|Germany|Nuremberg|BitCommand|
-|6|35.180.152.179|3128|France|Paris|Amazon Technologies Inc.|
-|7|18.130.200.161|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|128.199.6.201|10086|United States|Santa Clara|DigitalOcean, LLC|
-|9|13.52.99.39|3128|United States|San Jose|Amazon.com, Inc.|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|34.221.248.85|3128|United States|Portland|Amazon.com, Inc.|
-|12|13.57.184.188|3128|United States|San Jose|Amazon.com, Inc.|
-|13|18.144.5.105|3128|United States|San Jose|Amazon.com, Inc.|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|18.197.147.158|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|17|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|18|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|19|61.7.174.141|8080|Thailand|Ban Pho|CAT Telecom Public Company Limited|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|34.211.143.95|3128|United States|Portland|Amazon.com, Inc.|
+|2|18.220.25.1|3128|United States|Dublin|Amazon.com, Inc.|
+|3|18.132.43.82|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|35.180.252.30|3128|France|Paris|Amazon Technologies Inc.|
+|5|23.122.184.9|8888|United States|Hialeah|AT&T Services, Inc.|
+|6|3.120.98.39|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|8|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|9|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|177.23.54.13|6006|Brazil|Erval|Digi Fibra|
+|14|27.79.11.0|50003|Vietnam|Tan Tien|Viettel Corporation|
+|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|34.211.143.95|3128|United States|Portland|Amazon.com, Inc.|
+|17|18.220.25.1|3128|United States|Dublin|Amazon.com, Inc.|
+|18|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
+|20|64.225.4.29|9483|United States|Clifton|DigitalOcean, LLC|
 
 
 
