@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|2|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
-|3|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|4|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|7|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|12|46.41.141.111|8080|Poland|Szczecin|home.pl network|
-|13|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|14|82.222.11.215|8080|Turkey|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
-|15|101.255.165.146|3128|Indonesia|Bekasi|PT Remala Abadi|
-|16|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|17|182.253.197.69|8080|Indonesia|Jakarta|STIE-BPD|
-|18|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
-|20|31.7.67.189|80|Iran|Tehran|Asiatech Data Transmission company|
+|1|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|4|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
+|5|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|38.156.238.63|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|12|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|13|171.226.236.133|10011|Vietnam|Can Tho|Viettel Corporation|
+|14|51.158.147.163|1234|France|Paris|SCALEWAY|
+|15|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|17|189.73.50.58|8080|Brazil|Cascavel|V tal|
+|18|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|19|143.244.165.14|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|65.21.157.205|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
