@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|1|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
 |2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|3|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|7|103.244.205.158|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
-|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|10|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|11|171.227.1.27|10066|Vietnam|Gia Nghia|Viettel Corporation|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|171.243.23.72|15025|Vietnam|Nha Trang|Viettel Corporation|
-|14|78.46.190.133|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|46.105.35.193|8080|France|Roubaix|OVH SAS|
-|16|27.77.147.81|50003|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
-|17|143.198.82.92|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|218.158.230.43|7890|South Korea|Wanju|Korea Telecom|
-|19|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|20|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|5|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|8|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|9|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|10|171.227.1.27|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|11|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|12|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|27.77.147.81|50003|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
+|15|190.12.121.35|999|Argentina|Avellaneda|CPS|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|103.244.205.158|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
+|18|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|19|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|20|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
 
 
 
