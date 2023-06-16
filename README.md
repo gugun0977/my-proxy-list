@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9084** proxies at the latest update. Usable proxies are below.
+> Scraper found **9053** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|471|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|471|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|471|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|909|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1059|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|912|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6180|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|916|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5995|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.8.114.74|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|3.9.144.56|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|3.8.117.220|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|18.130.95.101|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|1|3.10.22.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|4|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |6|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|7|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
 |9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
-|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|14|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|172.104.30.222|8080|United States|Cedar Knolls|Akamai Technologies|
-|16|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|64.225.8.179|9977|United States|Clifton|DigitalOcean, LLC|
-|18|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.29.185.58|8080|Indonesia|Jakarta|PT. Pascal Indonesia|
+|11|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|13|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|14|64.225.8.82|9982|United States|Clifton|DigitalOcean, LLC|
+|15|135.181.25.11|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|5.161.80.172|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|135.181.89.201|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|135.181.99.227|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|135.181.94.130|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
