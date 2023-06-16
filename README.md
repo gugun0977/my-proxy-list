@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8912** proxies at the latest update. Usable proxies are below.
+> Scraper found **7957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1136|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|820|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1001|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5873|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|2|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|3|18.179.12.45|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|1|52.53.155.239|3128|United States|San Jose|Amazon.com, Inc.|
+|2|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|3|3.8.137.99|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|52.53.155.239|3128|United States|San Jose|Amazon.com, Inc.|
 |5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
-|7|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|89.58.48.220|20746|Germany|Nuremberg|netcup GmbH|
-|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|167.114.96.13|9300|Canada|Montreal|OVH SAS|
-|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|14|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|103.66.168.20|80|Bangladesh|Dhaka|Simec System Ltd.|
-|16|23.254.161.181|80|United States|Seattle|Hostwinds LLC.|
-|17|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|18|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|19|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|20|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|89.58.48.220|20746|Germany|Nuremberg|netcup GmbH|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|9|51.158.147.163|1234|France|Paris|SCALEWAY|
+|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|11|171.97.116.176|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|12|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|13|134.79.23.30|3128|United States|Menlo Park|SLAC National Accelerator Laboratory|
+|14|46.209.222.211|1402|Iran|Tehran|RSPN|
+|15|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|17|201.182.82.16|1994|Argentina|Sastre|Summit S.A.|
+|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|19|183.221.242.103|9443|China|Mianyang|China Mobile|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
