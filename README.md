@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9212** proxies at the latest update. Usable proxies are below.
+> Scraper found **9235** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1068|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1092|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|878|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6183|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|908|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6151|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|2|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|3|47.250.45.81|7890|Malaysia|Kuala Lumpur|Alibaba.com LLC|
-|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|3.8.114.236|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|81.12.36.51|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|8|124.121.126.150|80|Thailand|Bangkok|TRUEBB|
-|9|51.158.147.163|1234|France|Paris|SCALEWAY|
-|10|203.150.128.213|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|14|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|15|115.144.1.222|12089|South Korea|Gapyeong County|HAIonNet|
-|16|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
-|17|20.239.96.239|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|54.183.251.57|3128|United States|San Jose|Amazon.com, Inc.|
-|19|18.222.233.98|3128|United States|Dublin|Amazon.com, Inc.|
-|20|64.225.8.121|9998|United States|Clifton|DigitalOcean, LLC|
+|1|3.85.164.171|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|3|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
+|4|34.219.87.179|3128|United States|Portland|Amazon.com, Inc.|
+|5|54.183.251.199|3128|United States|San Jose|Amazon.com, Inc.|
+|6|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|188.240.71.244|3128|United Kingdom|London|Hydra Communications Ltd|
+|8|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|9|54.189.50.117|3128|United States|Portland|Amazon.com, Inc.|
+|10|201.184.24.13|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|11|54.189.50.117|3128|United States|Portland|Amazon.com, Inc.|
+|12|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
+|13|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|14|3.85.164.171|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|54.183.251.199|3128|United States|San Jose|Amazon.com, Inc.|
+|16|134.79.23.30|3128|United States|Menlo Park|SLAC National Accelerator Laboratory|
+|17|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
+|18|181.191.94.126|8999|Brazil|Matias Olimpio|Fernanda Danielly Sousa Almeida - Me|
+|19|103.168.58.150|3128|Vietnam|Cau Giay|Floor 5, 255 Tran Dang Ninh, Dich Vong, Cau Giay District, Ha Noi City|
+|20|190.119.86.67|999|Peru|La Victoria|America Movil Peru S.A.C.|
 
 
 
