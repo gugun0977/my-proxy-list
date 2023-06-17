@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|114|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|942|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|935|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|790|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6208|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|2|34.124.225.130|8080|Singapore|Singapore|Google LLC|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|4|18.185.136.162|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|18.130.146.155|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|8|78.47.72.144|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|10|54.252.249.49|3128|Australia|Sydney|Amazon.com, Inc.|
-|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|12|54.93.225.135|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|14|51.81.24.38|3128|United States|New York|OVH US LLC|
-|15|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|51.81.24.36|3128|United States|New York|OVH US LLC|
-|19|135.148.118.109|3128|United States|Sterling|OVH US LLC|
-|20|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|1|185.98.23.229|3128|France|Valence|ITMETRIX|
+|2|18.130.38.158|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|162.55.63.236|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|18.130.212.58|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|3.8.146.43|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|137.184.250.236|7890|Singapore|Singapore|DigitalOcean, LLC|
+|8|78.47.240.129|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|10|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|11|18.130.237.74|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|135.148.118.109|3128|United States|Sterling|OVH US LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
+|15|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|16|64.227.30.208|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
+|19|51.81.24.36|3128|United States|New York|OVH US LLC|
+|20|78.47.72.144|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
