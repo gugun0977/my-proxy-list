@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9371** proxies at the latest update. Usable proxies are below.
+> Scraper found **9471** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|966|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|922|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6395|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|2|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|3|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|4|188.40.90.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|84.255.35.210|9898|Malta|Floriana|Melita plc|
-|8|103.1.50.38|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|9|5.161.59.111|8080|United States|Ashburn|Hetzner Online GmbH|
-|10|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|11|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
-|12|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|104.215.198.229|3128|Singapore|Singapore|Microsoft Corporation|
-|14|144.24.102.221|3128|India|Mumbai|Oracle Corporation|
-|15|201.184.24.13|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|16|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
-|17|112.87.140.162|9443|China|Shanghai|China Unicom CHINA169 Jiangsu Province Network|
-|18|210.13.117.18|80|China|Shanghai|cuii shanghai|
-|19|64.225.8.115|9988|United States|Clifton|DigitalOcean, LLC|
-|20|187.63.157.38|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
+|2|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|3|188.40.90.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|6|217.66.22.197|8090|Russia|Kazan'|"MTS" OJSC|
+|7|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|8|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|9|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|10|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|11|24.121.213.170|3128|United States|Kingman|Suddenlink Communications|
+|12|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|95.216.194.46|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|16|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|17|5.161.59.111|8080|United States|Ashburn|Hetzner Online GmbH|
+|18|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|19|64.225.8.179|9983|United States|Clifton|DigitalOcean, LLC|
+|20|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
 
 
 
