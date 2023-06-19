@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10023** proxies at the latest update. Usable proxies are below.
+> Scraper found **10085** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1306|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1251|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|920|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1045|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6705|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.35.57.8|101|United States|North Bergen|DigitalOcean, LLC|
-|2|185.98.23.229|3128|France|Valence|ITMETRIX|
-|3|159.203.19.198|443|Canada|Toronto|DigitalOcean, LLC|
-|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|5|3.25.122.36|3128|Australia|Sydney|Amazon.com, Inc.|
-|6|161.35.57.8|101|United States|North Bergen|DigitalOcean, LLC|
-|7|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
-|8|140.99.21.198|3128|United States|Brooklyn|EpicUp Holdings Inc|
-|9|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|135.148.118.109|3128|United States|Sterling|OVH US LLC|
-|14|157.230.34.143|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|16|45.55.220.123|9900|United States|Clifton|DigitalOcean, LLC|
-|17|165.227.200.38|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|45.55.36.191|3333|United States|Clifton|DigitalOcean, LLC|
-|19|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|20|86.98.0.231|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|1|192.241.189.47|31028|United States|New York|DigitalOcean, LLC|
+|2|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|3|103.216.63.87|8123|Iran|Tehran|Sindad Network Technology Ltd.|
+|4|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|61.5.11.170|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
+|7|185.141.233.47|9443|Russia|Veliky Novgorod|Sever Telecom JSC|
+|8|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|74.208.38.17|80|United States|Philadelphia|ProfitBricks, Inc.|
+|10|1.20.169.176|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|45.15.153.156|3128|United States|Los Angeles|DediPath|
+|12|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|13|103.124.138.67|3126|Indonesia|Semarang|Global Media Data Prima|
+|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|15|74.208.38.17|80|United States|Philadelphia|ProfitBricks, Inc.|
+|16|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|17|137.184.142.151|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
+|20|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
 
 
 
