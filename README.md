@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9853** proxies at the latest update. Usable proxies are below.
+> Scraper found **9608** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1294|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1049|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|946|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6523|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.8.97.203|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|3.8.122.12|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|18.228.173.235|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 |4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|103.1.51.33|3125|Indonesia|Pandaan|CPCNet Hong Kong Ltd. - IP Administrator|
-|7|181.210.25.42|8080|Honduras|Tegucigalpa|Hondutel|
-|8|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|9|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|10|185.193.137.109|8080|Russia|Solnechnogorsk|OOO Net-Nord|
-|11|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|13|20.55.69.234|3128|United States|Boydton|Microsoft Corporation|
-|14|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|16|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
-|17|194.163.164.189|443|Germany|Düsseldorf|Contabo GmbH|
-|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|19|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|143.202.77.106|999|Mexico|Tijuana|Tecnologías Avanzadas S. de R.L. de C.V.|
+|5|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|66.211.155.34|8080|United States|Berlin|FirstLight Fiber|
+|11|80.210.26.69|8080|Iran|Tehran|TIC|
+|12|124.158.190.82|3128|Indonesia|Kudus|PT Jala Lintas Media|
+|13|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
+|14|102.68.136.1|83|Zambia|Ndola|AirLink Broadband Limited|
+|15|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
+|16|87.107.48.173|23500|Iran|Tehran|Soroush Rasaneh|
+|17|66.187.4.234|3128|United States|Las Vegas|Hostodo|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|20|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
 
 
 
