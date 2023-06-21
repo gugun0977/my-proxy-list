@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8985** proxies at the latest update. Usable proxies are below.
+> Scraper found **9118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1115|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|856|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6163|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|13.228.200.6|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|1|13.52.231.134|3128|United States|San Jose|Amazon.com, Inc.|
+|2|3.101.152.212|3128|United States|San Jose|Amazon.com, Inc.|
+|3|15.237.109.228|3128|France|Paris|Amazon Technologies Inc.|
+|4|34.222.212.95|3128|United States|Portland|Amazon.com, Inc.|
+|5|13.52.220.101|3128|United States|San Jose|Amazon.com, Inc.|
+|6|18.132.52.38|3128|United Kingdom|London|Amazon Technologies Inc.|
 |7|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|9|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|10|84.19.188.193|3128|Germany|Erfurt|Keyweb AG IP Network|
-|11|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|12|190.44.115.145|3128|Chile|Puente Alto|VTR BANDA ANCHA S.A.|
-|13|174.138.167.178|8888|United States|Phoenix|Secured Servers LLC|
-|14|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|84.19.189.193|3128|Germany|Erfurt|Keyweb AG IP Network|
-|17|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|18|183.88.157.182|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|19|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|20|128.199.20.95|8080|India|Bengaluru|DigitalOcean, LLC|
+|8|13.52.220.101|3128|United States|San Jose|Amazon.com, Inc.|
+|9|3.101.152.212|3128|United States|San Jose|Amazon.com, Inc.|
+|10|13.52.231.134|3128|United States|San Jose|Amazon.com, Inc.|
+|11|34.222.212.95|3128|United States|Portland|Amazon.com, Inc.|
+|12|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|16|187.188.213.206|8080|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|188.166.28.70|3310|Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|49.51.189.190|443|United States|Los Angeles|OPHL|
 
 
 
