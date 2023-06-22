@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9827** proxies at the latest update. Usable proxies are below.
+> Scraper found **9942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1196|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1256|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1007|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1052|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6523|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|212.119.44.77|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|3|212.119.44.141|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|4|3.10.139.29|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|7|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|8|124.122.11.76|8080|Thailand|Lat Bua Luang|True Internet Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|12|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|13|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
-|14|171.101.73.166|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|15|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|103.156.233.175|3125|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|17|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|19|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|20|73.242.86.12|8118|United States|Minnetonka|Comcast Cable Communications|
+|1|212.119.44.141|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|3|212.119.44.26|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|4|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|5|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|6|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|212.119.44.42|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|103.171.183.201|8181|Indonesia|Bendungan Hilir|PT Hayat Teknologi Informatika|
+|10|212.119.44.117|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|11|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|12|212.119.44.140|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|13|212.119.44.74|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|14|212.119.44.88|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
+|17|45.148.233.26|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|18|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
+|19|216.128.141.55|7777|United States|Dallas|The Constant Company|
+|20|116.236.68.170|80|China|Shanghai|China Telecom (Group)|
 
 
 
