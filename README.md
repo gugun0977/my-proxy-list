@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9899** proxies at the latest update. Usable proxies are below.
+> Scraper found **9839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|601|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|601|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|601|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1346|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1286|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1213|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6255|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|2|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|4|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|10|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|1|147.135.71.213|8008|United States|Reston|OVH SAS|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
+|4|170.254.28.185|8080|Ecuador|Guayaquil|María Teresa Vivar|
+|5|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|6|147.135.71.213|8008|United States|Reston|OVH SAS|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
+|9|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|115.240.163.31|80|India|Bengaluru|Reliance Jio Infocomm Limited|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|203.150.128.170|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|129.151.160.199|80|South Africa|Johannesburg|Oracle Corporation|
+|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|14|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
+|15|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|16|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 |17|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|18|143.47.248.136|80|United Kingdom|London|Oracle Corporation|
-|19|152.32.68.171|65535|Philippines|Makati City|Converge ICT Solution Inc|
-|20|103.167.171.13|8181|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|18|18.198.8.2|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|20|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
