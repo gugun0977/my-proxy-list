@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9245** proxies at the latest update. Usable proxies are below.
+> Scraper found **9203** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1166|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|964|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6122|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|867|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6080|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|2|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|3|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|4|45.148.233.100|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|5|82.145.46.190|3128|United Kingdom|Maidenhead|Iomart Hosting Ltd|
-|6|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|9|45.148.233.166|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|10|45.148.233.75|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|11|45.71.36.67|3128|Ecuador|Chimborazo|Nedetel S.A.|
-|12|45.148.233.166|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|190.7.138.78|80|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|16|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|17|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|18|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|19|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|212.119.44.74|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|1|34.221.58.217|3128|United States|Portland|Amazon.com, Inc.|
+|2|18.222.69.135|3128|United States|Dublin|Amazon.com, Inc.|
+|3|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|4|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
+|5|3.122.61.211|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|3.122.118.217|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|3.122.228.35|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|18.222.69.135|3128|United States|Dublin|Amazon.com, Inc.|
+|10|34.221.58.217|3128|United States|Portland|Amazon.com, Inc.|
+|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|13|78.46.190.133|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|16|69.75.140.157|8080|United States|San Luis|Spectrum|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|69.75.140.157|8080|United States|San Luis|Spectrum|
+|20|181.176.161.39|999|Peru|Yauri|VIETTEL PERÚ S.A.C.|
 
 
 
