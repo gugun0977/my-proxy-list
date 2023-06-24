@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9176** proxies at the latest update. Usable proxies are below.
+> Scraper found **9644** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1294|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|935|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1013|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6254|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.37.228.120|80|France|Paris|Amazon Technologies Inc.|
-|2|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|3|36.85.119.245|8080|Indonesia|Pontianak|PT. TELKOM INDONESIA|
-|4|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|6|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|7|163.177.106.4|8001|China|Shenzhen|China Unicom Guangdong Province Network|
-|8|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|9|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|45.234.61.7|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|11|142.190.148.86|8080|United States|Oxford|Uniti Fiber Holdings Inc.|
-|12|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
-|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|14|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|15|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|67.205.162.65|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|18|41.76.145.136|8080|Mozambique|Maputo|VM  S.A|
-|19|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|20|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|1|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|3|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|189.232.89.149|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|5|192.111.150.8|8080|United States|Quinton|Centrilogic|
+|6|195.133.45.149|7788|Russia|Moscow|VDS|
+|7|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|9|15.236.35.127|80|France|Paris|Amazon Technologies Inc.|
+|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|185.22.58.130|8080|Italy|Milan|HAL Service SpA|
+|12|103.51.205.42|8181|Indonesia|Surakarta|Lintas Data Prima|
+|13|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|14|178.151.205.154|45099|Ukraine|Zaporizhzhya|Triolan|
+|15|192.111.150.5|8080|United States|Quinton|Centrilogic|
+|16|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|17|45.66.249.113|80|United States|Los Angeles|BlueVPS OU|
+|18|54.207.39.249|8080|Brazil|São Paulo|Amazon Technologies Inc.|
+|19|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|20|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
 
 
 
