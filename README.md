@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9282** proxies at the latest update. Usable proxies are below.
+> Scraper found **9205** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|933|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1022|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|935|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6254|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|192.111.150.9|8080|United States|Quinton|Centrilogic|
-|3|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|4|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|5|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|81.181.109.142|2019|France|Paris|Virtono Networks SRL|
-|9|36.80.124.212|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|192.111.150.2|8080|United States|Quinton|Centrilogic|
-|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|27.79.54.60|50003|Vietnam|Tan Tien|Viettel Corporation|
-|14|171.243.28.157|50003|Vietnam|Nha Trang|Viettel Corporation|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|46.225.237.212|3128|Iran|Tehran|Dadeh Gostar Asr Novin P.J.S. Co.|
-|17|192.111.150.2|8080|United States|Quinton|Centrilogic|
-|18|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|19|14.187.7.250|8080|Vietnam|Ho Chi Minh City|VNPT|
-|20|189.232.80.183|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|1|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|13.37.228.120|80|France|Paris|Amazon Technologies Inc.|
+|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|4|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|5|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|7|36.80.124.212|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|45.173.231.193|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|9|183.89.12.149|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|10|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|11|192.111.150.5|8080|United States|Quinton|Centrilogic|
+|12|192.111.150.4|8080|United States|Quinton|Centrilogic|
+|13|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|14|38.32.254.14|999|Mexico|Monterrey|Cogent Communications|
+|15|116.105.188.189|10000|Vietnam|Hanoi|Viettel Corporation|
+|16|64.225.4.29|9497|United States|Clifton|DigitalOcean, LLC|
+|17|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|18|189.232.89.149|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|19|200.123.29.38|3128|Peru|Lima region|Wigo S.A.|
+|20|200.123.29.42|3128|Peru|Lima region|Wigo S.A.|
 
 
 
