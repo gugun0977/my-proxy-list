@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10656** proxies at the latest update. Usable proxies are below.
+> Scraper found **10432** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|758|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|758|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|758|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|48|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1482|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|30|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1519|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1454|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6589|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1411|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6389|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|64.225.8.191|9973|United States|Clifton|DigitalOcean, LLC|
-|3|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|7|95.0.84.26|80|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|8|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|9|64.225.8.191|9973|United States|Clifton|DigitalOcean, LLC|
-|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|103.191.155.46|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
-|12|203.150.113.166|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|14|64.225.4.63|9970|United States|Clifton|DigitalOcean, LLC|
-|15|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|16|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|17|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|19|190.143.196.141|3128|Guatemala|Guatemala City|Telgua|
-|20|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
+|1|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|2|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|35.154.237.158|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|3.101.150.39|3128|United States|San Jose|Amazon.com, Inc.|
+|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|10|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|3.101.150.39|3128|United States|San Jose|Amazon.com, Inc.|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
+|16|54.151.172.98|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|18|59.15.28.114|3939|South Korea|Yangcheon-gu|Korea Telecom|
+|19|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
