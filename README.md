@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9832** proxies at the latest update. Usable proxies are below.
+> Scraper found **9902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1199|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|76|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1158|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1080|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1181|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6404|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.111.150.4|8080|United States|Quinton|Centrilogic|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|158.69.53.132|9300|Canada|Montreal|OVH SAS|
-|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|5|188.43.247.36|3128|Russia|Vladivostok|Joint Stock Company TransTeleCom|
-|6|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|7|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|8|103.166.10.133|8181|Indonesia|Purwodadi|PT. Yasmin Amanah Media|
-|9|177.130.104.86|33333|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|10|188.127.40.8|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
-|11|177.87.144.122|8086|Brazil|Sao Sebastiao da Grama|Videomar Rede Nordeste S/A|
-|12|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|13|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
-|14|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|190.124.165.199|3128|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|16|161.35.197.118|3000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|18|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|19|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|20|181.129.181.60|3128|Colombia|Barrancabermeja|EPM Telecomunicaciones S.A. E.S.P.|
+|1|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|2|99.20.24.9|8888|United States|Miami Beach|AT&T Services, Inc.|
+|3|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
+|4|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|5|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|7|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|8|200.111.182.6|443|Chile|Santiago|Entel Chile S.A.|
+|9|201.150.118.42|999|Mexico|Pachuca|Hulux Telecomunicaciones|
+|10|120.79.86.123|80|China|Shenzhen|Hangzhou Alibaba Advertising Co|
+|11|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|12|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|13|64.225.4.29|9814|United States|Clifton|DigitalOcean, LLC|
+|14|223.112.48.133|3128|China|Suzhou|China Mobile communications corporation|
+|15|201.71.2.249|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|16|81.181.109.142|2019|France|Paris|Virtono Networks SRL|
+|17|202.94.164.190|8080|Bangladesh|Noagaon|Summit Communications Ltd|
+|18|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|19|165.16.46.193|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|177.11.159.126|8080|Brazil|Lagarto|Minas Telecom|
 
 
 
