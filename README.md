@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9205** proxies at the latest update. Usable proxies are below.
+> Scraper found **9176** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|933|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|935|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6254|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|2|13.37.228.120|80|France|Paris|Amazon Technologies Inc.|
-|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|1|13.37.228.120|80|France|Paris|Amazon Technologies Inc.|
+|2|192.111.150.15|8080|United States|Quinton|Centrilogic|
+|3|36.85.119.245|8080|Indonesia|Pontianak|PT. TELKOM INDONESIA|
 |4|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|192.111.150.12|8080|United States|Quinton|Centrilogic|
-|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|7|36.80.124.212|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|45.173.231.193|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|9|183.89.12.149|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|10|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|11|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|12|192.111.150.4|8080|United States|Quinton|Centrilogic|
-|13|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|14|38.32.254.14|999|Mexico|Monterrey|Cogent Communications|
-|15|116.105.188.189|10000|Vietnam|Hanoi|Viettel Corporation|
-|16|64.225.4.29|9497|United States|Clifton|DigitalOcean, LLC|
-|17|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|18|189.232.89.149|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|19|200.123.29.38|3128|Peru|Lima region|Wigo S.A.|
-|20|200.123.29.42|3128|Peru|Lima region|Wigo S.A.|
+|5|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|6|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|7|163.177.106.4|8001|China|Shenzhen|China Unicom Guangdong Province Network|
+|8|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
+|9|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|45.234.61.7|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|11|142.190.148.86|8080|United States|Oxford|Uniti Fiber Holdings Inc.|
+|12|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
+|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|14|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|15|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|67.205.162.65|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|18|41.76.145.136|8080|Mozambique|Maputo|VM  S.A|
+|19|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|20|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
 
 
 
