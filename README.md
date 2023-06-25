@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9526** proxies at the latest update. Usable proxies are below.
+> Scraper found **9591** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1015|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1078|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6414|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.111.150.12|8080|United States|Quinton|Centrilogic|
-|2|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|3|114.142.187.138|8080|Japan|Toyama|NSK Co., Ltd.|
-|4|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
-|6|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|192.111.150.11|8080|United States|Quinton|Centrilogic|
-|8|179.127.165.30|3128|Brazil|Itajaí|Unifique Telecomunica??es SA|
-|9|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|192.111.150.17|8080|United States|Quinton|Centrilogic|
+|4|114.142.187.138|8080|Japan|Toyama|NSK Co., Ltd.|
+|5|192.111.150.14|8080|United States|Quinton|Centrilogic|
+|6|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
 |10|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|13|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|14|192.111.150.20|8080|United States|Quinton|Centrilogic|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|13|117.3.246.39|11005|Vietnam|Hanoi|Viettel Corporation|
+|14|45.189.254.210|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|15|45.234.60.209|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
 |16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|19|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|20|45.70.6.156|8082|Brazil|Serra Talhada|OLITECH INFORMÁTICA E COMUNICAÇÃO LTDA|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|19|103.143.197.19|8080|Indonesia|Semarang|JERNIHNETWORK|
+|20|85.113.135.155|55443|Russia|Voronezh|Intercon JSC|
 
 
 
