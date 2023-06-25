@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1078|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1036|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|961|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1004|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6414|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|192.111.150.17|8080|United States|Quinton|Centrilogic|
-|4|114.142.187.138|8080|Japan|Toyama|NSK Co., Ltd.|
-|5|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|10|192.111.150.12|8080|United States|Quinton|Centrilogic|
-|11|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|12|171.6.4.244|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|192.111.150.17|8080|United States|Quinton|Centrilogic|
-|14|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|16|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|18|192.111.150.13|8080|United States|Quinton|Centrilogic|
-|19|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|195.8.52.158|6666|Poland|Ustrzyki Dolne|WIDE-NET II Sp. z o.o.|
+|6|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|192.111.150.19|8080|United States|Quinton|Centrilogic|
+|13|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|14|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|15|192.111.150.2|8080|United States|Quinton|Centrilogic|
+|16|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|17|192.111.150.17|8080|United States|Quinton|Centrilogic|
+|18|36.89.158.94|4480|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|20|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
