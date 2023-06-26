@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10095** proxies at the latest update. Usable proxies are below.
+> Scraper found **10032** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1233|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1159|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1167|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6603|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|138.68.161.99|1234|United Kingdom|London|DigitalOcean, LLC|
-|3|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|5|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|192.111.150.2|8080|United States|Quinton|Centrilogic|
-|7|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|49.49.5.30|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|125.26.228.168|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|101.109.244.118|8080|Thailand|Si Racha|TOT Public Company Limited|
-|15|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|16|92.84.56.10|50782|Romania|Viseu de Jos|Orange Romania Communication S.A|
-|17|186.148.182.184|999|Colombia|El Doncello|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.154.91.108|3127|Indonesia|Jakarta|MORATELINDONAP|
-|19|189.201.242.146|8888|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|1|192.111.150.17|8080|United States|Quinton|Centrilogic|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|61.198.92.36|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|4|27.79.51.231|50003|Vietnam|Tan Tien|Viettel Corporation|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|11|192.111.150.3|8080|United States|Quinton|Centrilogic|
+|12|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|13|192.111.150.10|8080|United States|Quinton|Centrilogic|
+|14|181.232.190.234|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|15|49.150.92.183|8080|Philippines|Dagupan|Philippine Long Distance Telephone Co.|
+|16|192.111.150.17|8080|United States|Quinton|Centrilogic|
+|17|192.111.150.3|8080|United States|Quinton|Centrilogic|
+|18|103.241.178.145|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|19|118.174.55.201|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
 
 
 
