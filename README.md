@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9715** proxies at the latest update. Usable proxies are below.
+> Scraper found **8732** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|549|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|549|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|549|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1106|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1078|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1202|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6447|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|140.148.253.120|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|3|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|5|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|116.111.217.203|11010|Vietnam|Tan Tien|Viettel Corporation|
-|8|117.3.246.90|50003|Vietnam|Hanoi|Viettel Corporation|
-|9|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|10|27.79.61.19|50003|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|1|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|2|99.20.24.9|8888|United States|Miami Beach|AT&T Services, Inc.|
+|3|192.111.150.19|8080|United States|Quinton|Centrilogic|
+|4|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|82.66.27.145|8118|France|Mérignac|Proxad / Free SAS|
+|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|119.76.142.205|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 |14|185.98.23.229|3128|France|Valence|ITMETRIX|
-|15|3.101.140.172|3128|United States|San Jose|Amazon.com, Inc.|
-|16|52.53.150.48|3128|United States|San Jose|Amazon.com, Inc.|
-|17|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|192.111.150.4|8080|United States|Quinton|Centrilogic|
-|19|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|20|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|27.79.48.201|10002|Vietnam|Tan Tien|Viettel Corporation|
+|16|27.77.151.147|10002|Vietnam|Hanoi|Viettel Group|
+|17|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|18|27.79.61.19|50003|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|19|117.3.241.72|50003|Vietnam|Hanoi|Viettel Corporation|
+|20|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
 
 
 
