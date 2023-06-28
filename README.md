@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9512** proxies at the latest update. Usable proxies are below.
+> Scraper found **9524** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|486|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|486|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|486|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1079|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1091|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|854|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6494|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|2|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
-|3|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|4|3.9.16.241|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|54.93.235.6|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|64.225.8.191|9971|United States|Clifton|DigitalOcean, LLC|
-|7|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|45.225.106.99|999|Ecuador|Guayaquil|Nedetel S.A.|
-|9|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|10|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|12|192.254.79.243|8080|United States|Quinton|Centrilogic|
-|13|192.111.150.12|8080|United States|Quinton|Centrilogic|
-|14|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|15|192.111.150.2|8080|United States|Quinton|Centrilogic|
-|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|17|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|18|49.51.189.190|443|United States|Los Angeles|OPHL|
-|19|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
-|20|192.111.150.11|8080|United States|Quinton|Centrilogic|
+|2|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|3|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|4|192.111.150.11|8080|United States|Quinton|Centrilogic|
+|5|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|6|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|7|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|8|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|159.65.32.168|80|United States|Clifton|DigitalOcean, LLC|
+|10|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|11|49.51.189.190|443|United States|Los Angeles|OPHL|
+|12|192.111.150.15|8080|United States|Quinton|Centrilogic|
+|13|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|14|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|15|171.100.139.68|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|20|192.111.150.3|8080|United States|Quinton|Centrilogic|
 
 
 
