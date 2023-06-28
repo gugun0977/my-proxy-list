@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9181** proxies at the latest update. Usable proxies are below.
+> Scraper found **9201** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1079|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1053|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|683|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|729|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6336|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|3|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|4|190.143.196.141|3128|Guatemala|Guatemala City|Telgua|
-|5|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|7|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|9|185.98.23.229|3128|France|Valence|ITMETRIX|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|14|112.78.165.251|8080|Indonesia|Jakarta|Biznet Networks|
-|15|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|17|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|20|134.35.73.186|8080|Yemen|Al Jabin|Public Telecommunication Corporation|
+|1|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|2|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|200.6.180.148|57586|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|181.65.169.37|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|18|103.166.194.67|8080|Indonesia|Jakarta|Hipernet Indodata|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
 
 
 
