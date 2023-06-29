@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9272** proxies at the latest update. Usable proxies are below.
+> Scraper found **9204** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1214|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1145|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|755|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6220|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |2|45.190.216.202|8080|Brazil|Sao Pedro da Aldeia|Infolagos Telecomunicacoes Ltda ME|
-|3|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|4|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|9|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|10|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|117.3.247.6|50012|Vietnam|Hanoi|Viettel Corporation|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|117.3.246.213|50012|Vietnam|Hanoi|Viettel Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|117.3.246.211|50012|Vietnam|Hanoi|Viettel Corporation|
-|18|213.248.51.58|80|Russia|Lyubertsy|Digital Network JSC|
-|19|131.255.137.200|80|Peru|Lima|Movilmax Telecom S.A|
-|20|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
+|3|36.76.170.50|8080|Indonesia|Pematangsiantar|PT. TELKOM INDONESIA|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|7|171.227.7.250|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|8|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|9|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
+|10|95.216.72.139|8088|Finland|Helsinki|Hetzner Online GmbH|
+|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|12|103.137.198.5|8080|India|Hyderabad|Bcm Airwaysroute|
+|13|117.3.247.6|50012|Vietnam|Hanoi|Viettel Corporation|
+|14|31.220.183.217|53281|Russia|Novokuznetsk|Regional Digital Telecommunication Company|
+|15|103.162.51.117|80|Bangladesh|Ukhiya|Md Jamshed Uddin|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|20|116.98.128.109|10030|Vietnam|Hanoi|Viettel Corporation|
 
 
 
