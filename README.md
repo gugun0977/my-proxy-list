@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8605** proxies at the latest update. Usable proxies are below.
+> Scraper found **8620** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|932|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|553|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6019|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|209.141.51.211|8080|United States|Las Vegas|FranTech Solutions|
-|3|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|4|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|7|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|9|171.227.7.250|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|10|103.152.101.185|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|11|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
-|12|36.95.244.62|8080|Indonesia|Ancol Timur|PT. Telekomunikasi Indonesia|
-|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|14|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|15|143.198.82.92|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|17|116.111.218.149|50012|Vietnam|Tan Tien|Viettel Corporation|
-|18|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|19|157.230.241.133|33163|Singapore|Singapore|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|116.111.218.149|50012|Vietnam|Tan Tien|Viettel Corporation|
+|5|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|36.90.63.98|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|7|102.220.121.56|3128|South Africa|Middelburg|Net4 Telecoms|
+|8|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|9|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|12|159.65.32.168|80|United States|Clifton|DigitalOcean, LLC|
+|13|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|15|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|18|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
+|19|64.225.8.115|9987|United States|Clifton|DigitalOcean, LLC|
+|20|163.228.89.122|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
 
 
 
