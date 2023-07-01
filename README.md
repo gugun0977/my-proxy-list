@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8678** proxies at the latest update. Usable proxies are below.
+> Scraper found **8726** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|981|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1025|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|678|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5935|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|203.152.206.76|80|Japan|Toshima|INTERLINK|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|8|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|9|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|217.61.19.124|3128|United Kingdom|Slough|ArubaCloud UK Network|
-|12|103.169.43.235|55443|Indonesia|Gunungsitoli|PT Digital Gemilang Solusi|
-|13|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|14|61.9.33.102|1337|Philippines|San Juan|Sky Cable Corporation|
-|15|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|16|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|19|185.49.170.20|43626|Spain|Madrid|OLIVE|
-|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|5|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|6|200.24.134.61|999|Ecuador|Guanujo|Nedetel S.A.|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|9|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|10|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|11|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|14|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|15|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|18|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|19|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|20|183.221.242.107|8443|China|Mianyang|China Mobile|
 
 
 
