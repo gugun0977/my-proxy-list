@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8625** proxies at the latest update. Usable proxies are below.
+> Scraper found **8863** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1048|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1145|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|656|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5838|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|708|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5927|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|6|51.11.104.180|3128|United Kingdom|Cardiff|Microsoft|
-|7|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
-|10|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|11|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|12|117.71.149.114|8089|China|Rongcheng|Chinanet|
-|13|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|14|64.225.8.82|9998|United States|Clifton|DigitalOcean, LLC|
+|1|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|2|185.102.72.149|3128|Kazakhstan|Almaty|PS Internet Company LLC|
+|3|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A.|
+|4|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|23.94.187.48|80|United States|Buffalo|ColoCrossing|
+|7|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
+|8|147.139.168.187|3128|Indonesia|Jakarta|Alibaba.com LLC|
+|9|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|10|183.221.242.102|9443|China|Mianyang|China Mobile|
+|11|103.1.50.41|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|12|183.221.242.111|8443|China|Mianyang|China Mobile|
+|13|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|14|36.138.120.73|3128|China|Shenzhen|China Mobile|
 |15|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
-|16|101.109.176.111|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|183.221.242.111|8443|China|Mianyang|China Mobile|
-|18|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|19|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|20|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
+|17|200.60.4.238|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|18|103.170.22.52|8089|Indonesia|Cilacap|PT Puskomedia Indonesia Kreatif|
+|19|37.130.26.140|8080|Poland|Lowicz|"InterKAM" S.C|
+|20|36.93.2.50|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 
 
 
