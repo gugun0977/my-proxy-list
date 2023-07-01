@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8813** proxies at the latest update. Usable proxies are below.
+> Scraper found **8897** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1030|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|32|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1080|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|773|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|775|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5927|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|4|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A.|
-|5|201.150.118.34|999|Mexico|Pachuca|Hulux Telecomunicaciones|
-|6|139.255.72.220|8080|Indonesia|Makassar|PT. LINKNET|
-|7|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|8|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|9|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|91.249.246.61|3128|Germany|Ibbenbueren|EWE TEL GmbH|
-|12|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|13|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|14|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|15|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|16|114.102.46.144|8089|China|Hefei|Chinanet|
-|17|45.189.117.61|999|Peru|Lima|Fiber Digital S.R.L|
-|18|117.71.149.114|8089|China|Rongcheng|Chinanet|
-|19|103.1.50.133|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|20|103.145.200.15|6969|Indonesia|Jakarta|DNE|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|5|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|6|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|10|158.69.66.131|9300|Canada|Montreal|OVH SAS|
+|11|45.4.252.217|999|Argentina|Puerto Piray|Fernando German Fischer (FIBERNET TELECOM)|
+|12|36.93.33.171|4480|Indonesia|Cipinang|Telekomunikasi Indonesia|
+|13|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|14|36.93.180.169|8080|Indonesia|Bali Mester|Telekomunikasi Indonesia|
+|15|173.197.115.78|8080|United States|Los Angeles|Charter Communications Inc|
+|16|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
+|17|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|18|177.23.133.8|8080|Brazil|Fortaleza|Mnet Telecom Provedoria em Internet Ltda|
+|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|20|103.56.206.65|4995|Indonesia|Jakarta|Argon Data Communication|
 
 
 
