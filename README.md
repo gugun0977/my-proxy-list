@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8684** proxies at the latest update. Usable proxies are below.
+> Scraper found **8643** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1022|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|981|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5947|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|162.240.99.237|3128|United States|Provo|Unified Layer|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|6|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|102.22.205.194|12354|South Africa|Johannesburg|Aerocom Broadband Services|
-|13|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|14|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|15|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|100.26.154.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|103.79.74.1|53879|India|Tirupur|Tiruppur Broadwave Private Limited|
-|19|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
-|20|183.221.242.107|8443|China|Mianyang|China Mobile|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|3|179.1.110.77|8080|Colombia|Cúcuta|InterNexa Global Network|
+|4|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|5|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|6|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|115.127.94.18|32650|Bangladesh|Dhaka|BRACNet Limited|
+|9|171.227.3.6|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|10|170.83.76.57|999|Venezuela|Caracas|Galanet Solution C.A.|
+|11|162.240.99.237|3128|United States|Provo|Unified Layer|
+|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|13|100.26.154.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|138.199.41.117|8899|United States|New York|Datacamp Limited|
+|15|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
+|16|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|17|111.178.11.20|8088|China|Wulipu|Chinanet|
+|18|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|19|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|111.178.11.20|8088|China|Wulipu|Chinanet|
 
 
 
