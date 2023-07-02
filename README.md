@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8754** proxies at the latest update. Usable proxies are below.
+> Scraper found **8796** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1102|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1137|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|622|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5947|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|3|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|12|45.229.34.174|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|13|192.141.93.91|999|Argentina|San Juan|Netropolys S.A.|
-|14|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|15|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|16|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|17|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
-|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|20|176.113.80.221|8443|Russia|Moscow|JSC "RetnNet"|
+|1|162.240.99.237|3128|United States|Provo|Unified Layer|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|171.227.3.6|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|13|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|15|200.6.180.148|57586|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|17|176.113.80.221|8443|Russia|Moscow|JSC "RetnNet"|
+|18|85.183.144.45|80|Germany|Lemsahl-Mellingstedt|Telefonica Germany GmbH & Co. OHG|
+|19|1.20.207.248|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|20|103.81.194.213|88|Indonesia|Bogor|PT Rtiga Global Media|
 
 
 
