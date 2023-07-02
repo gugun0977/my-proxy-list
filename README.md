@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -36,7 +36,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|606|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|7|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|181.36.121.222|999|Dominican Republic|San Pedro de Macorís|Altice Dominicana S.A.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|93.185.74.214|8088|Kazakhstan|Astana|JSC "KazTransCom"|
-|12|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|14|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|17|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|18|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|19|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|20|182.50.65.169|8080|Nepal|Bayarban|RO-65 BroadLink|
+|1|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
+|2|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|8|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|9|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|12|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|13|103.56.206.65|4995|Indonesia|Jakarta|Argon Data Communication|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|16|176.113.80.221|8443|Russia|Moscow|JSC "RetnNet"|
+|17|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|82.115.26.10|80|Germany|Nuremberg|BitCommand LLC|
+|19|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
+|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
 
 
 
