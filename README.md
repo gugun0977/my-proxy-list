@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|54.169.103.19|8888|Singapore|Singapore|Amazon.com, Inc.|
-|4|167.172.130.72|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|6|171.227.7.23|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|7|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|8|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|9|5.190.132.60|8080|Iran|Shiraz|Iran Telecommunication Company PJS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|171.243.112.162|50003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|102.220.121.56|3128|South Africa|Middelburg|Net4 Telecoms|
-|18|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|20|171.227.7.23|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|1|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
+|2|159.69.211.139|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|7|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|70.90.138.109|8080|United States|Warren|Comcast Cable Communications, LLC|
+|11|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|15|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|17|162.240.100.4|3128|United States|Provo|Unified Layer|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|62.171.150.234|3128|Germany|Nuremberg|Contabo GmbH|
+|20|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
