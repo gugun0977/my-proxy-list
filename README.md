@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8699** proxies at the latest update. Usable proxies are below.
+> Scraper found **8687** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|843|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|528|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6229|✅|
 
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |2|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|4|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|5|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|6|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|3|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|4|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|10|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|11|185.200.38.199|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|13|112.78.166.78|8080|Indonesia|Jakarta|Biznet Networks|
-|14|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|15|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|16|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|17|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|19|185.78.29.99|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|185.78.29.99|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
+|13|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|17|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|18|192.141.93.91|999|Argentina|San Juan|Netropolys S.A.|
+|19|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|20|5.196.111.29|20037|France|Le Grau-du-Roi|OVH SAS|
 
 
 
