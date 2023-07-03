@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8640** proxies at the latest update. Usable proxies are below.
+> Scraper found **8727** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1129|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1197|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|607|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5790|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|2|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|3|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|4|162.240.100.5|3128|United States|Provo|Unified Layer|
-|5|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
-|6|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|7|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
-|8|159.27.25.221|9999|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|9|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|10|162.240.99.236|3128|United States|Provo|Unified Layer|
-|11|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|13|162.240.100.4|3128|United States|Provo|Unified Layer|
-|14|112.35.204.111|80|China|Shenzhen|China Mobile|
-|15|201.184.24.14|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|16|68.181.13.130|80|United States|Culver City|University of Southern California|
-|17|147.135.54.182|3128|United States|Reston|OVH SAS|
-|18|178.236.223.250|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
-|20|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
+|1|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.198.224.1|80|Mexico|Salvador Alvarado|Mega Cable, S.A. de C.V.|
+|6|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|7|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|8|93.115.233.228|8080|Iran|Tehran|Asiatech|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
+|11|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|12|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
+|13|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|15|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|16|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|18|159.27.25.221|9999|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|19|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
+|20|34.87.55.162|8080|Singapore|Singapore|Google LLC|
 
 
 
