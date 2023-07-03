@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8206** proxies at the latest update. Usable proxies are below.
+> Scraper found **8108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|856|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|459|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|455|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5623|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|162.240.99.167|3128|United States|Provo|Unified Layer|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|45.188.167.3|1994|Mexico|La Barca|Velocom SA De CV|
+|2|45.188.167.3|1994|Mexico|La Barca|Velocom SA De CV|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |4|201.184.24.14|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|9|64.225.8.82|9986|United States|Clifton|DigitalOcean, LLC|
-|10|103.162.199.41|8080|India|Karur|Inet Communication Internet Service Provider|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|18.231.2.244|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|13|162.240.100.4|3128|United States|Provo|Unified Layer|
-|14|222.124.126.104|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|15|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|16|162.240.99.236|3128|United States|Provo|Unified Layer|
-|17|162.240.100.5|3128|United States|Provo|Unified Layer|
-|18|162.240.99.167|3128|United States|Provo|Unified Layer|
-|19|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|20|103.154.231.237|8080|Indonesia|Surabaya|DIGITNET|
+|5|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|6|181.204.83.67|999|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|185.169.183.100|8080|Turkey|Reyhanli|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|11|45.178.68.249|999|Argentina|Buenos Aires F.D.|ISP GROUP SRL|
+|12|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
+|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|15|222.124.123.219|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|18|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|103.169.254.164|8061|Indonesia|Curahjati|PT Master Star Network|
+|20|186.121.249.108|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
