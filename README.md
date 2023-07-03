@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8613** proxies at the latest update. Usable proxies are below.
+> Scraper found **8781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|61|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|501|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|622|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6016|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|170.254.28.185|8080|Ecuador|Guayaquil|María Teresa Vivar|
-|4|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|5|185.62.150.80|8081|Germany|Frankfurt am Main|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|6|185.230.138.16|8080|Germany|Düsseldorf|Contabo GmbH|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
-|9|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
-|10|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|14|141.11.158.25|8080|Thailand|Bangkok|NetPlay Co., Ltd|
-|15|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
-|16|171.243.112.162|50003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|18|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|190.164.3.20|999|Chile|Curicó|VTR BANDA ANCHA S.A.|
-|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|3|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|4|185.62.150.80|8081|Germany|Frankfurt am Main|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|5|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|6|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|7|171.227.7.23|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|91.217.96.170|8080|Czechia|Brno|Resident Control s.r.o.|
+|14|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
+|15|62.171.150.234|3128|Germany|Nuremberg|Contabo GmbH|
+|16|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|17|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|18|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
+|19|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|20|62.171.150.234|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
