@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8572** proxies at the latest update. Usable proxies are below.
+> Scraper found **8640** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1144|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1129|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|540|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|607|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5790|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.115.233.228|8080|Iran|Tehran|Asiatech|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|54.169.103.19|8888|Singapore|Singapore|Amazon.com, Inc.|
-|4|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|137.184.14.135|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|8|138.199.41.122|8899|United States|New York|Datacamp Limited|
-|9|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
-|10|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|11|178.128.247.244|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|64.225.8.82|9996|United States|Clifton|DigitalOcean, LLC|
-|13|64.225.8.82|9996|United States|Clifton|DigitalOcean, LLC|
-|14|62.171.150.234|3128|Germany|Nuremberg|Contabo GmbH|
-|15|88.214.41.251|3128|Turkey|Magnesia ad Sipylum|Superonline Iletisim Hizmetleri A.S.|
-|16|200.63.104.44|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|18|183.221.242.102|9443|China|Mianyang|China Mobile|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
+|1|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|2|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|3|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|4|162.240.100.5|3128|United States|Provo|Unified Layer|
+|5|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
+|6|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|7|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
+|8|159.27.25.221|9999|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|9|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|10|162.240.99.236|3128|United States|Provo|Unified Layer|
+|11|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|13|162.240.100.4|3128|United States|Provo|Unified Layer|
+|14|112.35.204.111|80|China|Shenzhen|China Mobile|
+|15|201.184.24.14|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|16|68.181.13.130|80|United States|Culver City|University of Southern California|
+|17|147.135.54.182|3128|United States|Reston|OVH SAS|
+|18|178.236.223.250|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
+|20|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
 
 
 
