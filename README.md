@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|187.49.191.17|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|9|103.169.254.164|8061|Indonesia|Curahjati|PT Master Star Network|
-|10|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|6|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|107.182.185.41|59394|United States|Los Angeles|IT7 Networks Inc|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
 |12|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
 |13|142.4.123.41|80|United States|San Jose|PEG TECH INC|
-|14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|15|64.225.8.82|9978|United States|Clifton|DigitalOcean, LLC|
-|16|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|17|162.240.100.4|3128|United States|Provo|Unified Layer|
-|18|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|20|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|14|45.178.68.250|999|Argentina|Buenos Aires F.D.|ISP GROUP SRL|
+|15|162.240.99.14|3128|United States|Provo|Unified Layer|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|37.255.230.227|80|Iran|Isfahan|Iran Telecommunication Company PJS|
+|18|178.154.212.6|3128|Russia|Moscow|Yandex enterprise network|
+|19|183.221.242.103|9443|China|Mianyang|China Mobile|
+|20|200.63.104.44|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
