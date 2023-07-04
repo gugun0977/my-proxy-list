@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8727** proxies at the latest update. Usable proxies are below.
+> Scraper found **8639** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1197|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|30|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|607|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|590|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5790|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|142.4.123.41|80|United States|San Jose|PEG TECH INC|
+|3|43.129.223.147|38080|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.198.224.1|80|Mexico|Salvador Alvarado|Mega Cable, S.A. de C.V.|
-|6|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|7|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|8|93.115.233.228|8080|Iran|Tehran|Asiatech|
-|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|10|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
-|11|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|12|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
-|13|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|15|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|16|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|18|159.27.25.221|9999|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|19|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
-|20|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|10|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|13|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|182.253.183.192|80|Indonesia|Yogyakarta|BIZNET|
+|15|151.22.181.229|8080|Italy|Strongoli|INFOSTRADA|
+|16|212.109.221.149|3128|Russia|Moscow|TheServer|
+|17|177.53.214.21|8080|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|18|88.255.102.105|8080|Turkey|İskenderun|TurkTelekom|
+|19|142.4.123.41|80|United States|San Jose|PEG TECH INC|
+|20|51.222.116.84|8050|Brazil|Mairi|OVH Hosting|
 
 
 
