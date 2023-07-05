@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8674** proxies at the latest update. Usable proxies are below.
+> Scraper found **8836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1023|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1181|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|724|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5840|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.82|9992|United States|Clifton|DigitalOcean, LLC|
-|2|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|3|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|64.225.4.85|9998|United States|Clifton|DigitalOcean, LLC|
-|6|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|7|64.225.8.82|9992|United States|Clifton|DigitalOcean, LLC|
-|8|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|1|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|2|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|3|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|4|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|5|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|118.99.127.176|8080|Indonesia|Malang|Biznet Metronet|
 |9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|11|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
-|12|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|13|209.126.9.54|3128|United States|St Louis|Nubes, LLC|
-|14|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|15|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|16|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|17|162.240.100.4|3128|United States|Provo|Unified Layer|
-|18|162.240.100.4|3128|United States|Provo|Unified Layer|
-|19|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|20|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|10|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|11|162.240.100.4|3128|United States|Provo|Unified Layer|
+|12|191.243.46.50|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|13|177.125.89.101|8080|Brazil|Ouro Preto|Conecta Minas Telecom LTDA|
+|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|15|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|16|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|18|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|20|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
 
 
 
