@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|177.93.58.17|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|12|103.36.11.21|8080|Indonesia|Lebak|PT Awinet Global Mandiri|
-|13|175.106.8.139|8080|Indonesia|Jakarta|Quantum Dist POP KBJ PS-SH|
-|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|15|103.114.219.170|3128|United States|Lenoir|Centrilogic, Inc.|
-|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|17|103.125.173.14|8080|Indonesia|Deli Tua|PT Trinity Teknologi Nusantara|
-|18|138.219.244.125|8080|Brazil|Salvador|Softdados Telecomunicações|
-|19|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|1|64.225.4.85|9984|United States|Clifton|DigitalOcean, LLC|
+|2|201.158.48.74|8080|Honduras|Tegucigalpa|Cablecolor S.A.|
+|3|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|115.144.119.229|10204|South Korea|Mapo-gu|HAIonNet|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|94.110.148.115|3128|Belgium|Lauwe|Mobistar Cable|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|13|176.115.197.118|8080|Russia|Moscow|UnitTelecom LLC|
+|14|115.69.222.114|8080|Indonesia|Surabaya|DWP management|
+|15|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|16|200.114.65.15|999|Chile|Los Vilos|Chile TV Cable S.A.|
+|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|103.149.194.199|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|19|171.243.28.123|50003|Vietnam|Nha Trang|Viettel Corporation|
+|20|120.29.124.131|8080|Philippines|Capas|ComClark Network & Technology Corp|
 
 
 
