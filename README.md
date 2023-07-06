@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8179** proxies at the latest update. Usable proxies are below.
+> Scraper found **8287** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|901|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|486|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5708|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|2|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
-|7|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|7|201.184.107.27|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|8|103.105.76.85|8080|Indonesia|Kediri|GARUDA|
 |9|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|10|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|12|183.221.242.103|9443|China|Mianyang|China Mobile|
-|13|161.117.227.226|8118|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|14|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|15|183.221.242.103|9443|China|Mianyang|China Mobile|
-|16|183.221.242.107|8443|China|Mianyang|China Mobile|
-|17|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
-|18|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
-|19|201.71.2.143|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|38.154.239.218|8888|United States|Piscataway|B2 Net Solutions Inc.|
+|10|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|11|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|12|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|13|64.225.8.82|9982|United States|Clifton|DigitalOcean, LLC|
+|14|144.21.50.41|3128|United Kingdom|London|Oracle Corporation|
+|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|17|47.254.25.208|3128|United States|Minkler|Alibaba.com LLC|
+|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|19|200.123.29.41|3128|Peru|Lima region|Wigo S.A.|
+|20|41.76.145.18|3128|Mozambique|Maputo|VM  S.A|
 
 
 
