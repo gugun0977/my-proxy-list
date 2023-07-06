@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8466** proxies at the latest update. Usable proxies are below.
+> Scraper found **8570** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1119|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1302|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|637|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|567|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5602|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|2|138.68.161.99|1234|United Kingdom|Slough|DigitalOcean, LLC|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|173.82.245.139|3128|United States|Los Angeles|Multacom Corporation|
-|8|84.201.153.6|3128|Russia|Moscow|Yandex enterprise network|
-|9|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
-|10|200.24.207.194|8080|Ecuador|Guayaquil|Otecel S.A|
-|11|200.105.104.185|999|Argentina|Córdoba|Empresa Provincial de Energia de Cordoba|
-|12|147.135.54.182|3128|United States|Reston|OVH SAS|
-|13|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|14|162.251.61.230|3128|United States|Chicago|GTHost|
-|15|103.126.173.13|8080|Indonesia|Bandar Lampung|MEGARAP|
-|16|173.82.245.139|3128|United States|Los Angeles|Multacom Corporation|
-|17|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|19|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
-|20|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|6|201.76.218.220|9898|Brazil|Rio de Janeiro|Wnet Internet Ltda.|
+|7|50.193.36.173|8080|United States|Carmel|Comcast Cable Communications|
+|8|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|23.94.187.48|80|United States|Buffalo|ColoCrossing|
+|10|14.207.23.197|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|183.91.3.22|11022|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
+|14|187.190.249.114|1994|Mexico|Chetumal|Total Play Telecomunicaciones SA De CV|
+|15|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|16|103.80.236.93|8080|Indonesia|Kebon Jeruk|PT MITRA VISIONER PRATAMA|
+|17|54.38.187.177|80|France|Strasbourg|OVH SAS|
+|18|117.54.201.38|2525|Indonesia|Bekasi|PT IndoInternet|
+|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|103.254.185.195|53281|Nepal|Patan|WorldLink Communications|
 
 
 
