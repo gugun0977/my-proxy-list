@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8791** proxies at the latest update. Usable proxies are below.
+> Scraper found **8802** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|997|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|399|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6292|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|3|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|4|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|5|77.232.21.4|8080|Russia|Moscow|JSC "AKADO-Stolitsa"|
+|1|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|62.138.7.104|8646|France|Strasbourg|Host Europe Group|
+|3|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|5|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|7|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|8|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|9|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|12|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|13|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|14|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|15|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|16|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|17|183.221.242.103|9443|China|Mianyang|China Mobile|
-|18|183.221.242.107|8443|China|Mianyang|China Mobile|
-|19|14.194.101.220|3128|India|Ghaziabad|Tata Tele Services GSM|
-|20|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|7|51.222.131.111|8050|Brazil|Mairi|OVH Hosting|
+|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|36.67.186.5|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|10|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|12|50.204.36.138|60808|United States|Chicago|Comcast Cable Communications, LLC|
+|13|5.135.170.126|8080|France|Givors|OVH SAS|
+|14|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|15|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|176.106.34.47|8080|Poland|Gliwice|KRUCZNET Sp. z o.o.|
+|18|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
+|19|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|20|216.66.89.10|8080|United States|Miami|Hurricane Electric LLC|
 
 
 
