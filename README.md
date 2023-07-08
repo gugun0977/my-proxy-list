@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8951** proxies at the latest update. Usable proxies are below.
+> Scraper found **8873** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|448|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|448|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|448|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1240|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1161|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|683|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5945|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|2|95.217.68.48|80|Finland|Helsinki|Hetzner Online GmbH|
-|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|4|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|7|103.191.155.46|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
-|8|103.169.254.186|8061|Indonesia|Curahjati|PT Master Star Network|
-|9|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
-|10|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|14|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|15|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|16|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
-|17|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|18|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|19|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|20|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.126.9.54|3128|United States|St Louis|Nubes, LLC|
+|5|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|7|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|8|209.126.9.54|3128|United States|St Louis|Nubes, LLC|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
+|12|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|13|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|14|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|16|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
+|20|196.3.97.71|23500|Mozambique|Maputo|Eduardo Mondlane University|
 
 
 
