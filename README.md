@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8099** proxies at the latest update. Usable proxies are below.
+> Scraper found **8125** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|879|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|921|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|410|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5727|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|4|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|5|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|2|144.86.187.38|3128|United States|Malden|Charles River Operation|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
 |6|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|7|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|9|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|10|200.63.104.45|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|12|183.221.242.111|8443|China|Mianyang|China Mobile|
-|13|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|14|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|15|183.221.242.111|8443|China|Mianyang|China Mobile|
-|16|190.2.135.101|8080|Netherlands|Naaldwijk|WorldStream B.V.|
-|17|103.88.237.24|8080|India|Hyderabad|Mana Communications|
-|18|171.5.8.221|8081|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|200.63.104.44|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|144.86.187.36|3128|United States|Malden|Charles River Operation|
+|7|144.86.187.38|3128|United States|Malden|Charles River Operation|
+|8|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|9|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|10|144.86.187.36|3128|United States|Malden|Charles River Operation|
+|11|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|13|144.86.187.35|3128|United States|Malden|Charles River Operation|
+|14|39.164.132.197|8088|China|Zhengzhou|China Mobile|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|17|123.182.59.108|8089|China|Zhangjiakou|Chinanet|
+|18|144.86.187.49|3128|United States|Malden|Charles River Operation|
+|19|183.221.242.103|9443|China|Mianyang|China Mobile|
+|20|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
