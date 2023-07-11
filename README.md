@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8052** proxies at the latest update. Usable proxies are below.
+> Scraper found **7889** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|454|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|372|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5428|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.159.115.233|3128|France|Paris|SCALEWAY|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|34.143.228.238|8080|Singapore|Singapore|Google LLC|
 |3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|185.98.23.229|3128|France|Valence|ITMETRIX|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|7|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|8|115.144.123.219|10297|South Korea|Mapo-gu|HAIonNet|
-|9|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|10|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|11|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|12|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|16|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
-|17|163.172.31.44|80|France|Paris|Online S.A.S.|
-|18|81.169.204.107|8080|Germany|Berlin|Strato AG|
-|19|81.169.204.107|8080|Germany|Berlin|Strato AG|
-|20|36.138.120.73|3128|China|Shenzhen|China Mobile|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|163.172.31.44|80|France|Paris|Online S.A.S.|
+|9|81.169.204.107|8080|Germany|Berlin|Strato AG|
+|10|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|11|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|12|41.77.13.186|53281|Malawi|Limbe|Globe LLW SR|
+|13|81.169.204.107|8080|Germany|Berlin|Strato AG|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
+|16|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|17|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|18|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|19|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|20|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
 
 
 
