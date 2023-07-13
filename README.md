@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8629** proxies at the latest update. Usable proxies are below.
+> Scraper found **8624** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|144|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|154|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1060|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|417|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5910|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|173.255.252.139|7890|United States|Fremont|Akamai Technologies, Inc.|
-|4|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
-|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|6|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
-|10|45.115.217.152|8080|Nepal|Kathmandu|Data Hub Pvt. Ltd.|
-|11|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|12|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|13|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|14|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|15|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|16|173.255.252.139|7890|United States|Fremont|Akamai Technologies, Inc.|
-|17|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|18|51.159.115.233|3128|France|Paris|SCALEWAY|
-|19|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|64.225.8.135|9995|United States|Clifton|DigitalOcean, LLC|
+|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|3|187.251.230.10|3128|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|7|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
+|9|192.99.182.243|3128|United States|New York|OVH Hosting|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|164.152.47.99|9000|Brazil|São Paulo|Oracle Corporation|
+|12|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|13|45.115.217.152|8080|Nepal|Kathmandu|Data Hub Pvt. Ltd.|
+|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|15|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|190.90.39.78|999|Colombia|Arauca|INTERNEXA Brasil Operadora de TelecomunicaÔÔes S.A|
+|17|84.255.35.210|9898|Malta|Floriana|Melita plc|
+|18|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|20|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
 
 
 
