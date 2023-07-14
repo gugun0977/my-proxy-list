@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7580** proxies at the latest update. Usable proxies are below.
+> Scraper found **7660** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1059|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|418|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|451|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5167|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|3.6.101.45|8080|India|Mumbai|Amazon Technologies Inc|
-|6|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|188.132.222.212|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|188.132.152.96|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|144.160.240.72|8080|United States|Indianapolis|AT&T Services, Inc.|
-|13|23.152.40.15|3128|United States|North Miami|Host-Engine.com|
-|14|144.160.240.69|8080|United States|Indianapolis|AT&T Services, Inc.|
-|15|144.160.240.68|8080|United States|Indianapolis|AT&T Services, Inc.|
-|16|144.160.240.91|8080|United States|Indianapolis|AT&T Services, Inc.|
-|17|45.236.104.49|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|144.160.240.70|8080|United States|Indianapolis|AT&T Services, Inc.|
-|19|89.208.105.195|4555|Netherlands|Amsterdam|AEZA GROUP Ltd|
-|20|187.147.135.247|999|Mexico|Mérida|Uninet S.A. de C.V.|
+|2|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|182.253.63.13|8080|Indonesia|Bandar Lampung|BIZNET|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|8|116.111.217.47|14050|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|9|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|185.142.66.102|8080|Russia|Lytkarino|Wellcom-l ISP|
+|11|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|12|125.163.144.133|3128|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
+|13|103.169.254.186|8061|Indonesia|Curahjati|PT Master Star Network|
+|14|103.165.157.76|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
+|15|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|16|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|17|188.132.152.96|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|19|144.160.240.72|8080|United States|Indianapolis|AT&T Services, Inc.|
+|20|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
