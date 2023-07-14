@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8703** proxies at the latest update. Usable proxies are below.
+> Scraper found **8516** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1159|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|441|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|378|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5896|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.114.219.186|3128|United States|Lenoir|Centrilogic, Inc.|
-|2|2.187.188.239|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|3|95.217.68.48|80|Finland|Helsinki|Hetzner Online GmbH|
-|4|117.251.103.186|8080|India|Chandigarh|BSNL Internet|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|7|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
-|8|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|9|43.229.132.76|8080|Thailand|Phang Nga|Siamdata Communication Co.|
-|10|165.227.200.38|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|89.208.105.195|4555|Netherlands|Amsterdam|AEZA GROUP Ltd|
-|12|104.149.150.108|27007|United States|Los Angeles|Psychz Networks|
+|1|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|2|117.251.103.186|8080|India|Chandigarh|BSNL Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|5|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|6|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|7|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|8|103.171.159.223|8080|Indonesia|Lampung|MYREPUBLIC|
+|9|131.196.8.33|999|Ecuador|Latacunga|Angel Benigno Condolo Guaya|
+|10|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
+|11|144.160.240.76|8080|United States|Indianapolis|AT&T Services, Inc.|
+|12|144.160.240.79|8080|United States|Indianapolis|AT&T Services, Inc.|
 |13|144.160.240.77|8080|United States|Indianapolis|AT&T Services, Inc.|
 |14|144.160.240.72|8080|United States|Indianapolis|AT&T Services, Inc.|
-|15|144.160.240.75|8080|United States|Indianapolis|AT&T Services, Inc.|
-|16|144.160.240.73|8080|United States|Indianapolis|AT&T Services, Inc.|
-|17|144.160.240.76|8080|United States|Indianapolis|AT&T Services, Inc.|
-|18|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|19|144.160.240.73|8080|United States|Indianapolis|AT&T Services, Inc.|
-|20|95.216.114.142|80|Finland|Helsinki|Hetzner Online GmbH|
+|15|144.160.240.74|8080|United States|Indianapolis|AT&T Services, Inc.|
+|16|144.160.240.76|8080|United States|Indianapolis|AT&T Services, Inc.|
+|17|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|18|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
+|19|144.160.240.75|8080|United States|Indianapolis|AT&T Services, Inc.|
+|20|40.127.181.25|33500|Ireland|Dublin|Microsoft Corporation|
 
 
 
