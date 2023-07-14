@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8677** proxies at the latest update. Usable proxies are below.
+> Scraper found **8434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1233|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|465|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5896|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.98.23.229|3128|France|Valence|ITMETRIX|
+|1|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 |2|117.251.103.186|8080|India|Chandigarh|BSNL Internet|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|49.254.87.24|13443|South Korea|Gwangmyeong|Korea Telecom|
-|5|200.32.51.179|8080|Argentina|Moron|Telefonica de Argentina|
-|6|182.253.40.147|8080|Indonesia|Pasuruan|BIZNET|
-|7|144.160.240.72|8080|United States|Indianapolis|AT&T Services, Inc.|
-|8|144.160.240.74|8080|United States|Indianapolis|AT&T Services, Inc.|
-|9|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|10|144.160.240.79|8080|United States|Indianapolis|AT&T Services, Inc.|
-|11|144.160.240.69|8080|United States|Indianapolis|AT&T Services, Inc.|
-|12|122.211.138.2|53128|Japan|Isoji|SUGOKURA|
-|13|116.111.217.47|14050|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|14|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|15|144.160.240.91|8080|United States|Indianapolis|AT&T Services, Inc.|
-|16|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|65.109.27.100|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|20|45.169.92.146|999|Peru|Lima|Wigo S.A.|
+|3|185.189.186.19|8080|Ukraine|Chernivtsi|buknet|
+|4|170.83.242.248|999|Paraguay|Asunción|Ufinet Panama S.A.|
+|5|43.229.132.76|8080|Thailand|Phang Nga|Siamdata Communication Co.|
+|6|46.101.160.223|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|37.235.20.148|8080|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
+|8|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|9|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
+|10|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
+|11|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
+|12|144.160.240.69|8080|United States|Indianapolis|AT&T Services, Inc.|
+|13|144.160.240.73|8080|United States|Indianapolis|AT&T Services, Inc.|
+|14|144.160.240.68|8080|United States|Indianapolis|AT&T Services, Inc.|
+|15|144.160.240.75|8080|United States|Indianapolis|AT&T Services, Inc.|
+|16|144.160.240.70|8080|United States|Indianapolis|AT&T Services, Inc.|
+|17|144.160.240.91|8080|United States|Indianapolis|AT&T Services, Inc.|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|144.160.240.76|8080|United States|Indianapolis|AT&T Services, Inc.|
+|20|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
