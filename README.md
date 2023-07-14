@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8307** proxies at the latest update. Usable proxies are below.
+> Scraper found **8276** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|996|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|476|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5752|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|2|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
-|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|5|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|6|181.78.82.73|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|7|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|8|170.80.65.153|8080|Brazil|Belo Horizonte|BTT TELECOMUNICACOES S.A.|
-|9|179.1.192.50|999|Colombia|Neiva|INTERNEXA Brasil Operadora de TelecomunicaÔÔes S.A|
-|10|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|11|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|144.160.240.76|8080|United States|Indianapolis|AT&T Services, Inc.|
-|14|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|15|64.225.8.135|9987|United States|Clifton|DigitalOcean, LLC|
-|16|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|17|45.224.22.177|999|Ecuador|Riobamba|Nedetel S.A.|
-|18|3.6.101.45|8080|India|Mumbai|Amazon Technologies Inc|
-|19|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|20|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|1|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|2|117.102.73.98|8080|Indonesia|Jakarta|Biznet Networks|
+|3|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|192.99.182.243|3128|United States|New York|OVH Hosting|
+|6|152.32.187.164|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|10|41.184.188.25|8080|Nigeria|Lagos|ipNX Nigeria Limited|
+|11|45.6.4.59|8081|Argentina|Juan Bautista Alberdi|Providers S.A.|
+|12|181.78.82.73|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|13|151.22.181.211|8080|Italy|Strongoli|INFOSTRADA|
+|14|171.5.14.203|8081|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|15|103.159.220.65|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
+|16|51.159.115.233|3128|France|Paris|SCALEWAY|
+|17|46.201.89.18|8080|Ukraine|Kyiv|UKRTELECOM|
+|18|189.232.89.204|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|19|144.160.240.75|8080|United States|Indianapolis|AT&T Services, Inc.|
+|20|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
 
 
 
